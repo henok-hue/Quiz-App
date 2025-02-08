@@ -7,7 +7,7 @@ A Question Game To Pass The Time
 # Installation
 To install Project Title, follow these steps:
 
-Clone the repository: git clone https://github.com/henok-hue/Sweet-Home
+Clone the repository: git clone https://github.com/henok-hue/Quiz-App
 Navigate to the project directory: cd project-title
 Install dependencies: npm install
 Build the project: npm run build
